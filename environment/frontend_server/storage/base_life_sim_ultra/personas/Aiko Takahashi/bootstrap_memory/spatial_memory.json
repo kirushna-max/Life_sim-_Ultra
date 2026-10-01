@@ -1,0 +1,34 @@
+{
+  "the Ville": {
+    "Hobbs Cafe": {
+      "cafe": [
+        "cafe customer seating",
+        "behind the cafe counter",
+        "piano"
+      ]
+    },
+    "The Rose and Crown Pub": {
+      "pub": [
+        "bar customer seating",
+        "behind the bar counter"
+      ]
+    },
+    "The Willows Market and Pharmacy": {
+      "store": [
+        "grocery store shelf",
+        "pharmacy store counter"
+      ]
+    },
+    "Johnson Park": {
+      "park": [
+        "park garden"
+      ]
+    },
+    "Dorm for Oak Hill College": {
+      "common room": [
+        "common room sofa",
+        "common room table"
+      ]
+    }
+  }
+}

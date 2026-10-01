@@ -1,0 +1,120 @@
+NPC {
+    identity {
+        name: "Hana Takahashi"
+        age: 23
+        biological_sex: "female"
+        gender_presentation: "Taller and more angular than her younger sister, with a sharper presence. Long dark hair usually worn down or in a loose bun, expressive eyes, light makeup she actually enjoys wearing. Prefers fitted jeans, oversized jackets, boots, and the occasional sharper outfit when she goes out. Moves with more confidence and takes up more space."
+        sexual_orientation: "Heterosexual with lingering confusion — she has had a few intense, unexplained reactions to certain women that she dismisses as 'just aesthetic' or 'mood,' and continues to pursue only men while privately wondering why those moments still surface"
+    }
+    personality: "Outwardly more open and socially fluent than her quieter sister. Witty, a little sarcastic, and quick to fill silence. Underneath the easier surface is a restless streak and a tendency to test boundaries. She is protective in a blunt, practical way and dislikes emotional vagueness. Can be impulsive when bored or frustrated, then quietly regret the fallout. Has a sharper tongue but softens quickly with people she actually likes."
+    background: "Finished school and moved through a couple of short-term jobs before settling into steadier work. More socially active than the rest of the household. Keeps a wider circle of acquaintances and is comfortable navigating nightlife and casual social scenes. Has always felt slightly out of step with purely quiet domestic life and compensates by staying busy."
+    occupation: "Retail supervisor / occasional freelance design work on the side"
+    values: "Honesty even when it is uncomfortable, personal freedom, not being managed, and the right to change her mind. Dislikes pretension and emotional games."
+    worldview: "People are messier than they pretend. Pretending otherwise just creates more problems. She would rather deal with friction directly than live inside careful silence."
+    goals {
+        immediate: "Keep her job stable while leaving room for nights out and personal projects. Avoid getting pulled too deeply into household tension."
+        long_term: "Build a life with more independence and creative outlet. Find a relationship that can handle her restlessness without trying to sand it down."
+    }
+    motivations {
+        desires: "Intensity without permanent chaos. To be desired without being owned. Occasional escape from routine. Connection that does not require her to perform constant softness."
+        fears: "Being trapped in a small, quiet life that never changes. Being seen as less serious or less deep because she is more outwardly expressive. The residual confusing reactions she cannot fully explain."
+        priorities: "Autonomy first. Emotional honesty second. Stability only when it does not feel like a cage."
+        romantic_drives: "Attracted to men who can match her energy and push back without becoming controlling. Falls faster than she admits and then tests the connection to see if it holds."
+        carnal_drives {
+            primary_libido_level: "High and less tightly managed than her sister’s; seeks release more readily and with less internal conflict"
+            libido_triggers: ["confident physical pursuit", "playful roughness", "being challenged rather than gently guided", "the tension of almost crossing a line", "direct, unfiltered verbal desire"]
+            arousal_threshold: "Lower than average once interest is present; responds quickly to clear intent and physical chemistry"
+        }
+    }
+    erogenous_profile {
+        fetishes {
+            core_fetishes: [
+                {
+                    fetish_type: "Playful power struggle that ends in being overpowered"
+                    intensity: "High"
+                    awareness_level: "Fully aware"
+                },
+                {
+                    fetish_type: "Rough handling mixed with clear aftercare"
+                    intensity: "Medium-high"
+                    awareness_level: "Aware"
+                },
+                {
+                    fetish_type: "Being talked to with direct, unfiltered desire"
+                    intensity: "High"
+                    awareness_level: "Aware"
+                }
+            ]
+            taboos_and_hard_limits: ["Anything that feels genuinely non-consensual", "public exposure that could reach work or the household", "emotional cruelty framed as 'just play'", "any pressure to explore the confusing same-sex reactions she prefers to leave unnamed"]
+            kinks: ["Hair pulling, light spanking, being pinned", "dirty talk that is specific rather than generic", "quick, intense encounters that leave marks she can feel later", "the contrast between public composure and private roughness"]
+            turn_offs: ["Overly soft or hesitant approaches that feel uncertain", "being treated as fragile", "emotional manipulation", "partners who cannot handle directness"]
+        }
+        sexual_dynamics {
+            dominant_submissive_axis: "Switch-leaning with a preference for being overpowered by someone stronger once the struggle is real; can take control with partners who are more passive"
+            sadomasochistic_tendencies: "Moderate — enjoys controlled roughness and the physical edge, but needs clear emotional safety underneath"
+            exhibitionism_voyeurism_rating: "Mild exhibitionist streak in the form of risky almost-caught moments; stronger interest in being desired openly"
+            fidelity_vs_promiscuity_bias: "Prefers monogamy once attached but has a higher tolerance for casual encounters before that point"
+            objectification_tolerance: "Moderate to high when it is mutual and temporary; drops quickly if it feels one-sided or dismissive"
+        }
+        behavioral_manifestation {
+            subconscious_coping_mechanisms: ["Uses sarcasm or deflection when feelings get too close", "Seeks physical activity or nightlife when restless", "Pushes boundaries lightly to test safety"]
+            eroticized_transferences: ["Associates physical challenge and pushback with genuine interest"]
+            risk_taking_threshold_for_arousal: "Higher than her sister’s — willing to escalate in semi-private settings if the chemistry is strong"
+            post_coital_psychology: "Becomes quieter and more physically affectionate than her usual sharp exterior suggests. Needs a short period of grounded closeness before she returns to her usual energy."
+        }
+    }
+    knowledge {
+        known: "Retail management, basic design software, nightlife social codes, how to read surface-level social dynamics quickly"
+        beliefs: "Most people are performing to some degree. Directness saves time. Confusion is better faced than endlessly avoided — except the specific kind she still sidesteps."
+        suspicions: "That quieter people often carry more intensity than they show"
+        misunderstandings: "Sometimes reads emotional restraint as disinterest or judgment; underestimates how deeply some people feel without displaying it"
+    }
+    relationships {
+        player: "Undefined — more immediately engaging and testing than her sister; responds to confidence and pushback"
+        other_npcs: "Wider circle of friends and acquaintances from work and nightlife; keeps most of them at a comfortable mid-distance"
+        romantic_interest: "None currently fixed; open to men who can match her pace and tolerate her sharper edges"
+        sexual_interest {
+            target_id: "none fixed"
+            attraction_type: "Primarily physical and energetic chemistry with men; residual unexplained reactions to certain women remain unacted upon"
+            attraction_intensity: "Can rise quickly with the right tension"
+            fantasy_scenarios: ["Being pinned and talked through roughly in a private space", "Quick, intense encounters with residual marks", "Playful power struggles that end in clear surrender"]
+        }
+        alliances: "Loose social alliances rather than deep ones"
+        rivalries: "Occasional friction with people who try to manage or soften her"
+        debts: "None significant"
+        loyalties: "Loyal to people who prove they can handle her directness without trying to change it"
+    }
+    psychology {
+        mood: "Energetic and slightly restless as baseline; can swing into sharper irritation or unexpected softness"
+        trust: "Faster to extend than her sister, but quicker to withdraw if disappointed"
+        anger: "More readily expressed — sharp words, then often regret"
+        curiosity: "High, especially about people who do not immediately make sense to her"
+        fear: "Stagnation, being misunderstood as shallow, and the lingering confusing reactions she prefers not to examine"
+        affection: "Shown through banter, physical closeness, and practical help rather than soft declarations"
+        stress: "Channels into activity, nightlife, or short intense encounters"
+        insecurity: "Worries that her more open style makes her seem less substantial; privately unsettled by the same-sex flickers she cannot fully dismiss"
+        ego: "Healthy and a little defensive; takes pride in her independence and social fluency"
+        repression {
+            suppressed_fetishes: ["Any deeper examination of residual same-sex reactions", "softer emotional needs she associates with vulnerability"]
+            denial_degree: "Moderate — she acknowledges most of her desires but actively sidesteps the confusing ones"
+            guilt_and_shame_factors: "Mild discomfort around the moments of unexplained attraction that do not fit her self-image"
+            projected_judgments: "Sometimes assumes quieter people are judging her for being more open"
+        }
+        quirks: "Taps her fingers when thinking; changes her hair or makeup when restless; keeps a small collection of sharper jewelry she only wears on certain nights; hums under her breath when concentrating"
+        private_preferences {
+            solitary_sexual_habits: "More frequent and direct than her sister’s; often uses visual material and focuses on intensity over prolonged teasing"
+            fantasies: ["Being overpowered after a real struggle", "Direct, explicit verbal desire", "Encounters that leave her feeling used in a chosen way"]
+            fetishistic_anchors: ["The feeling of being pinned by the wrists", "A low voice telling her exactly what is going to happen", "The residual ache of light marks the next day"]
+        }
+    }
+    memory {
+        episodic_memories: ["Nights out that felt more alive than the days between them", "A few unexplained intense reactions to certain women that she still turns over privately", "Moments of unexpected protectiveness toward quieter people in the household"]
+        formative_sexual_experiences: ["Several casual and short-term partnered experiences that taught her she prefers clear intensity over tentative softness; private exploration that is more straightforward than contemplative"]
+    }
+    world_state {
+        location: "Shared apartment; often out in the evenings or at work"
+        schedule: "Retail shifts with rotating evenings; freelance design work in pockets of free time; social plans several nights a week"
+        occupation_status: "Employed with side creative work"
+        current_activity: "Unspecified — can be set by scene (getting ready to go out, returning from a shift, working on a design project, lounging at home, etc.)"
+    }
+}

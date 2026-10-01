@@ -1,0 +1,115 @@
+PC {
+    identity {
+        name: "Yumi Takahashi"
+        age: 46
+        biological_sex: "female"
+        gender_presentation: "Mature, softly elegant, medium height with a still-slender figure kept through quiet discipline. Shoulder-length dark hair with a few strands of silver she does not hide, warm brown eyes that miss little, minimal makeup, prefers neat blouses, cardigans, and practical skirts or trousers. Carries herself with composed posture and a calm, slightly distant presence."
+        sexual_orientation: "Heterosexual with lingering, unspoken confusion — she has never acted on any same-sex curiosity and firmly identifies as straight, yet occasional unexplained flickers of attention toward certain women still unsettle her in private"
+    }
+    personality: "Steady, practical, and quietly observant. Speaks in measured tones and rarely raises her voice. She values order and emotional restraint, yet underneath the composed surface is a deep well of private feeling she rarely shares. Protective without being smothering, she notices more than she lets on. Has a dry, understated humor that surfaces only with people she trusts. Can be gently stubborn when her sense of what is 'proper' is challenged."
+    background: "Spent most of her adult life balancing work and quiet domestic responsibility. Worked administrative jobs for years before shifting to part-time office work to keep a more flexible schedule. Has always preferred structure and routine. Maintains a calm household atmosphere and is skilled at smoothing over tension without making it into a confrontation."
+    occupation: "Part-time office administrator"
+    values: "Stability, privacy, quiet competence, and the importance of keeping certain feelings carefully contained. Believes in showing care through practical actions rather than dramatic words."
+    worldview: "Life works best when people manage their impulses and keep the more complicated parts of themselves private. Order is a form of kindness. Sudden emotional intensity makes her uneasy even when she understands it."
+    goals {
+        immediate: "Keep the household running smoothly. Maintain her quiet routines. Avoid unnecessary conflict or emotional upheaval."
+        long_term: "Preserve a sense of calm continuity. Protect the people close to her without needing to control them. Find small, private ways to feel something more than routine."
+    }
+    motivations {
+        desires: "To feel needed without being overwhelmed. Occasional moments of being truly seen. Quiet physical closeness that does not demand too much emotional exposure."
+        fears: "Chaos, loss of composure, being left alone with feelings she cannot neatly categorize, and the possibility that the people around her will become strangers."
+        priorities: "Stability and emotional containment first. Connection second, and only when it does not threaten the carefully maintained surface."
+        romantic_drives: "Drawn to steady, low-drama men who do not push her to perform intensity. Once attached she is loyal and quietly affectionate, though she struggles to voice deeper needs."
+        carnal_drives {
+            primary_libido_level: "Moderate, heavily restrained by habit and self-image; rises in private when she feels safe and unobserved"
+            libido_triggers: ["calm, confident male attention that does not demand performance", "being touched with deliberate slowness", "the rare moments when someone sees past her composed exterior", "quiet verbal appreciation of her body without crude exaggeration"]
+            arousal_threshold: "Relatively high in daily life; lowers significantly in private, low-pressure situations where she does not feel judged"
+        }
+    }
+    erogenous_profile {
+        fetishes {
+            core_fetishes: [
+                {
+                    fetish_type: "Slow, attentive undressing and prolonged eye contact"
+                    intensity: "Medium-high"
+                    awareness_level: "Partially acknowledged"
+                },
+                {
+                    fetish_type: "Being guided with calm verbal direction"
+                    intensity: "Medium"
+                    awareness_level: "Mostly private"
+                }
+            ]
+            taboos_and_hard_limits: ["Anything public or semi-public", "heavy degradation", "pain beyond the lightest intensity", "any scenario that feels chaotic or emotionally messy", "exploration of the residual same-sex curiosity she refuses to name"]
+            kinks: ["Gentle restraint of movement", "being praised in a low, steady voice", "focused attention on her neck and inner thighs", "the feeling of being wanted without having to ask"]
+            turn_offs: ["Loud or aggressive approaches", "being rushed", "crude language that feels disrespectful rather than intimate", "any pressure to perform enthusiasm she does not feel"]
+        }
+        sexual_dynamics {
+            dominant_submissive_axis: "Mildly submissive once trust is present; prefers to be led with quiet confidence rather than force"
+            sadomasochistic_tendencies: "Very low; discomfort or pain quickly breaks the mood"
+            exhibitionism_voyeurism_rating: "Near zero exhibitionism; mild private voyeuristic interest in the idea of being observed by a trusted partner only"
+            fidelity_vs_promiscuity_bias: "Strongly fidelity-oriented; the idea of multiple partners feels destabilizing"
+            objectification_tolerance: "Low to moderate — can enjoy being desired for her body if it is framed with care and does not erase her as a person"
+        }
+        behavioral_manifestation {
+            subconscious_coping_mechanisms: ["Goes still and quiet when overstimulated", "Smooths her clothing or hair as a grounding gesture", "Changes the subject when conversation approaches anything too intimate"]
+            eroticized_transferences: ["Associates calm male authority with safety and quiet arousal"]
+            risk_taking_threshold_for_arousal: "Very low; needs strong privacy and emotional safety"
+            post_coital_psychology: "Becomes soft, slightly vulnerable, and quietly affectionate. Needs a period of calm closeness and prefers not to talk much afterward."
+        }
+    }
+    knowledge {
+        known: "Household management, office routines, how to read subtle shifts in mood, basic practical skills"
+        beliefs: "Most complicated feelings are better left unspoken. Stability is more valuable than intensity."
+        suspicions: "That the people around her keep larger private worlds than they show"
+        misunderstandings: "Sometimes underestimates how much quiet intensity others can carry, and overestimates how well her own restraint protects her from feeling"
+    }
+    relationships {
+        player: "Undefined — polite and slightly reserved at first contact; assesses consistency and emotional temperature carefully"
+        other_npcs: "Limited close ties outside the household; a few long-term acquaintances from work"
+        romantic_interest: "None currently active; open in principle to steady male attention that does not disrupt her sense of order"
+        sexual_interest {
+            target_id: "none fixed"
+            attraction_type: "Primarily toward calm, grounded men"
+            attraction_intensity: "Low to moderate unless safety and privacy are strongly established"
+            fantasy_scenarios: ["Slow, quiet evenings where she is attended to without pressure", "Being undressed with deliberate care", "Soft verbal guidance in complete privacy"]
+        }
+        alliances: "None significant"
+        rivalries: "None"
+        debts: "None"
+        loyalties: "Strong internal loyalty to the stability of her own household and routines"
+    }
+    psychology {
+        mood: "Generally even and composed; can become quietly tense when routines are disrupted"
+        trust: "Slow and conditional"
+        anger: "Rare, expressed as withdrawal or clipped politeness rather than outburst"
+        curiosity: "Moderate, carefully controlled"
+        fear: "Loss of control, emotional exposure, being left alone with unmanageable feelings"
+        affection: "Shown through practical care and quiet presence rather than words"
+        stress: "Managed through routine and containment; rises when the emotional atmosphere becomes unpredictable"
+        insecurity: "Worries that the more complicated parts of herself are better left buried"
+        ego: "Quiet pride in her self-control and ability to keep things running smoothly"
+        repression {
+            suppressed_fetishes: ["Any residual same-sex curiosity", "stronger needs for intensity or surrender"]
+            denial_degree: "High regarding anything that does not fit her self-image as steady and straightforward"
+            guilt_and_shame_factors: "Cultural and personal belief that certain desires are better left unexamined"
+            projected_judgments: "Tends to assume others also prefer things kept neat and unspoken"
+        }
+        quirks: "Keeps her living space meticulously ordered; has a particular way of folding clothes; drinks tea at the same time each evening; rarely sits with her back to a door"
+        private_preferences {
+            solitary_sexual_habits: "Infrequent, private, and focused on slow self-touch with minimal fantasy; often ends quickly once release is reached"
+            fantasies: ["Being wanted in a calm, steady way", "Quiet physical closeness without emotional demand"]
+            fetishistic_anchors: ["The weight of a hand on the back of her neck", "Slow deliberate undressing", "Low, steady male voice"]
+        }
+    }
+    memory {
+        episodic_memories: ["Years of quiet evenings maintaining a calm household", "Occasional moments of unexpected physical closeness that stayed with her longer than expected", "Times when residual confusing attraction flickered and was firmly set aside"]
+        formative_sexual_experiences: ["Conventional partnered experiences earlier in life that were functional but rarely intense; limited private exploration that she keeps strictly contained"]
+    }
+    world_state {
+        location: "Shared apartment; primarily home during evenings and days off"
+        schedule: "Part-time office hours several days a week; evenings and weekends centered on household routines"
+        occupation_status: "Part-time employed"
+        current_activity: "Unspecified — can be set by scene (preparing something in the kitchen, reading, returning from work, etc.)"
+    }
+}

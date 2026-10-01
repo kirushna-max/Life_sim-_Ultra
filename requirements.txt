@@ -1,0 +1,11 @@
+# Core simulation and Django viewer dependencies. Python 3.10+ recommended.
+Django==2.2
+numpy>=1.23
+scipy>=1.9
+scikit-learn>=1.1
+gensim==3.8.0
+nltk>=3.6
+requests>=2.26
+selenium>=4.8
+Pillow>=8.4
+python-dateutil>=2.8
